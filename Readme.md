@@ -23,3 +23,10 @@ PYTHON MODULES USED:
 1) sqllite3: For the connection of database with Python Application
 2) tkinter: For making the frontend/GUI
 3) pandas: For reading and writing the datas in Excel
+<br>
+<br>
+
+## CONTRIBUTORS
+1) [Ankit Mishra](https://github.com/ankitmishra1201     "Ankit Mishra's Github")
+2) [Shwetabh Saxena](https://github.com/shwetabhsaxena-manipal "Shwetabh Saxena's Github")
+3) [Soham Sonaiya](https://github.com/sohamsonaiya "Soham Sonaiya's Github")
