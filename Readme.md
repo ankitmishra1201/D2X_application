@@ -4,11 +4,11 @@
 
 #### There will be three options available to user, where user can choose any following from excel to SQL operations and vice versa:
 <br>
-A) On clicking “Sync to Excel file from Database”, it will import all the created or updated data from SQL to the Excel File.
+1) On clicking “Sync to Excel file from Database”, it will import all the created or updated data from SQL to the Excel File.
 <br>
-B) On clicking “Create Database from Excel File”, it will create a blank database file “database.db” and export all the data from Excel file to SQL.
+2) On clicking “Create Database from Excel File”, it will create a blank database file “database.db” and export all the data from Excel file to SQL.
 <br>
-C) On clicking “Sync to Database from Excel File”, whatever changes that has been made in the excel file will reflect in the Database with a click.
+3) On clicking “Sync to Database from Excel File”, whatever changes that has been made in the excel file will reflect in the Database with a click.
 <br>
 <br>
 
